@@ -74,7 +74,7 @@ To run this on the victim machine in the form of a python script do the followin
 
 To run this on the victim machine in the form of a .exe file, do the following before sending it to the victim:
 
-- pyinstaller <***full_path_to_script**> --onefile --noconsole
+- pyinstaller <**full_path_to_script**> --onefile --noconsole
 
 You should find your executable in the dest folder. You can now run the exe file in the victim machine.
 
