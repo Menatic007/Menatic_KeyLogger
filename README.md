@@ -13,7 +13,7 @@
 
 ## **Description**
 
-Menatic Keylogger is a fully undetectable malware that will capture all keystrokes from a victim machine and use discord webhooks to transfer these keystrokes to the attacker machine, without causing anything suspicious to take place that in-turn will trigger most anti-virus softwares. Discord webhooks will be considered as normal discord traffic, thus blends away our malicious activities even from network firewalls. 
+Menatic Keylogger is a fully undetectable malware that will capture all keystrokes from a victim machine and use discord webhooks to transfer these keystrokes to the attacker machine, without causing anything suspicious to take place which will trigger anti-virus softwares. Discord webhooks will be considered as normal discord traffic, thus blends away our malicious activities even from network firewalls. 
 
   - **All user logins and passwords**
   - **Bank passwords**
