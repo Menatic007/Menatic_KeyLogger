@@ -7,7 +7,7 @@
 ![GitHub](https://img.shields.io/github/forks/Menatic007/Menatic-SubDominator?style=flat-square)
 ![GitHub](https://img.shields.io/github/stars/Menatic007/Menatic-SubDominator?style=social)
 
-
+![unknown](https://user-images.githubusercontent.com/102872534/187035539-1432edd7-b089-449c-8fe0-08fc5445ea2e.png)
 
 
 ## **Description**
@@ -39,6 +39,7 @@ Menatic Keylogger is a fully undetectable malware that will capture all keystrok
 * keyboard
 ## Installation
 
+
 <code>
 
 - git clone https://github.com/Menatic007/Menatic_KeyLogger.git
@@ -51,6 +52,7 @@ Menatic Keylogger is a fully undetectable malware that will capture all keystrok
   
 </code> 
 
+
 ## Usage
 
 First make a discord server or use an existing one.
@@ -60,6 +62,8 @@ Create a seperate channel for this program.
 Get your webhook url for that particular channel, if you dont know how to, there are many you tube videos. 
 
 Open the script with a text editor and paste the url under `discord_webhooks_url` on line 11.
+
+
 
 <code>
 
@@ -76,6 +80,8 @@ You should find your executable in the dest folder. You can now run the exe file
 Make your own changes to the file for it to gain persistence, we will not be covering that in detail because this is only a **Proof of Concept**
 
 </code>
+
+
 
 ## Built With
 
