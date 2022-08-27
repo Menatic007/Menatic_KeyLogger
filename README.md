@@ -7,7 +7,8 @@
 ![GitHub](https://img.shields.io/github/forks/Menatic007/Menatic-SubDominator?style=flat-square)
 ![GitHub](https://img.shields.io/github/stars/Menatic007/Menatic-SubDominator?style=social)
 
-![unknown](https://user-images.githubusercontent.com/102872534/187035539-1432edd7-b089-449c-8fe0-08fc5445ea2e.png)
+
+![unknown](https://user-images.githubusercontent.com/102872534/187035669-18b1ca0a-4d86-4a35-88ec-71f6ed561008.png)
 
 
 ## **Description**
