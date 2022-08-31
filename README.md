@@ -19,7 +19,7 @@ Menatic Keylogger is a fully undetectable malware that will capture all keystrok
   - **Bank passwords**
   - **social media account passwords**
   - **Emails sent to people**
-  - **Complete reconaissance of the victims day to day activities**
+  - **Complete reconnaissance of the victims day to day activities**
   - **Bypasses Windows Defender**
 
 ## Disclaimer !!!
